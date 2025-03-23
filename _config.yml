@@ -6,7 +6,6 @@ description: >- # site description
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
@@ -23,8 +22,8 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
-baseurl:
+url: "https://sambilheimer.github.io" #
+baseurl: "/jekyll-klise"
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
